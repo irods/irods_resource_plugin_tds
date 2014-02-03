@@ -2,3 +2,7 @@ irods_resource_plugin_tds
 =========================
 
 Unidata Thredds Data Server (TDS) resource plugin for iRODS
+
+Test data:
+
+  http://centos4.irods.renci.org:8080/thredds/
